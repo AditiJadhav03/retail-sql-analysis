@@ -1,4 +1,4 @@
-&nbsp;Retail Sales SQL Analysis
+&nbsp; SQL Sales Analysis
 
 
 
