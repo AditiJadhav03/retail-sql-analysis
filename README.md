@@ -146,7 +146,7 @@ This project demonstrates practical SQL usage in a real-world retail environment
 
 
 
-SQL Retail Analysis Project for Data/IT Support/Analyst Interview Preparation
+SQL Retail Analysis Project for Data/IT Support/Analysis.
 
 
 
